@@ -22,20 +22,11 @@ This GitHub repository hosts a Jupyter Notebook project focusing on stock market
 - PipFinance
 - Jupyter Notebook
 
-### Contributors:
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
-
-### License:
-This project is licensed under the [License Name]. See the LICENSE file for details.
-
 ### Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
 
 ### Acknowledgments:
-- Special thanks to [Acknowledged Person/Resource] for their contributions and guidance.
-- This project builds upon the work of [Related Project/Resource].
+- This project builds upon the work of...
 
 ### Disclaimer:
 This project is for educational and informational purposes only. It does not constitute financial advice. Always conduct thorough research and consult with financial professionals before making investment decisions.
